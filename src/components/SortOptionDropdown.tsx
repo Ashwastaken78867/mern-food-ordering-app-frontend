@@ -51,5 +51,4 @@ const SortOptionDropdown = ({ onChange, sortOption }: Props) => {
     </DropdownMenu>
   );
 };
-
 export default SortOptionDropdown;
